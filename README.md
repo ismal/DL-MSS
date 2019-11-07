@@ -3,12 +3,8 @@
 Deep Learning followed by Moment Scaling Spectrum
 
 **Jupyter notebooks:**
-* [Multiple State Generator](./notebooks/MA_MultipleStateGenerator.ipynb)
-* [Data processing script](./notebooks/MA_DataProcessing_UserFriendly_NEW.ipynb)
-
-**Jupyter notebooks in HTML format for browsin in the browser, showing the code and the results:**
-* [Multiple State Generator](./notebooks_html/MA_MultipleStateGenerator.html)
-* [Data processing script](./notebooks_html/MA_DataProcessing_UserFriendly_NEW.html)
+* [Multiple State Generator](./MA_MultipleStateGenerator.ipynb)
+* [Data processing script](./MA_DataProcessing_UserFriendly_NEW.ipynb)
 
 **Data files:**
 * [Trained model](./Model_Bidirectional_NoShape_3state_Tr10000)
