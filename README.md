@@ -11,8 +11,8 @@ Deep Learning followed by Moment Scaling Spectrum
 * [Data processing script](./notebooks_html/MA_DataProcessing_UserFriendly_NEW.html)
 
 **Data files:**
-* [Trained model](./notebooks/Model_Bidirectional_NoShape_3state_Tr10000)
-* [Model Parameters???](./notebooks/Parameters_Model_Bidirectional_NoShape_3state_Tr10000.txt)
+* [Trained model](./Model_Bidirectional_NoShape_3state_Tr10000)
+* [Model Parameters](./Parameters_Model_Bidirectional_NoShape_3state_Tr10000.txt)
 
 **Required python packages:**
 * numpy
