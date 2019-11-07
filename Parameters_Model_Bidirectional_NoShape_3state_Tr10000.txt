@@ -1,0 +1,1 @@
+Bidirectional_NoShape_Feat[meanMSD, xy]_MaxOrder2_Shift2_WS25_H200_1splits_Train10000_Val5000_Test5000_Batch256_Tracks1000_3state_minFrames1state4_P[[0.8,0.1,0.1],[0.1,0.8,0.1],[0.1,0.1,0.8]]_D[1.0,0.1]_H0.1_scaling0.3_t0.03_pixsize0.1.p
