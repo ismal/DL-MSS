@@ -9,6 +9,7 @@ Deep Learning followed by Moment Scaling Spectrum
 **Data files:**
 * [Trained model](./Model_Bidirectional_NoShape_3state_Tr10000)
 * [Model Parameters](./Parameters_Model_Bidirectional_NoShape_3state_Tr10000.txt)
+* tracks.simple.filtered.txt is an example text file with tracks (colunms correspond to "t x y track_id") that is used by [Data processing script](./MA_DataProcessing_UserFriendly_NEW.ipynb)
 
 **Required python packages:**
 * numpy
